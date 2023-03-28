@@ -1,4 +1,4 @@
-## Google Home 관련 설정 
+## Java inflearn 강의 
 ### *Action google*  
 ***
 1. [Actions on Google Console](https://console.actions.google.com/ "Action Google")
